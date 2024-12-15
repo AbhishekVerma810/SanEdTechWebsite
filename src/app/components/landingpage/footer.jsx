@@ -112,6 +112,7 @@ const Footer = () => {
 
         {/* Footer Bottom */}
         <div className="text-center text-gray-600 mt-10">
+          <h1>Founder Abhi verma</h1>
           <p>
             &copy; {new Date().getFullYear()} LearnPlus. All Rights Reserved.
           </p>
